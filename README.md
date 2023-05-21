@@ -1,4 +1,4 @@
-# How are Citibikes being used in NYC?
+# How are Citi Bikes being used in NYC?
 
  ### **Overview**
 Citi Bike is the largest bike sharing programme in the United States.  This project utilised [data](https://citibikenyc.com/system-data) covering a four month period, December 2022 to March 2023, to understand how Citi Bikes were being used, who was riding them, when and where.
