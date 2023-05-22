@@ -6,7 +6,7 @@ Citi Bike is the largest bike sharing programme in the United States.  This proj
 ### **Tableau dashboard and story**
 Tableau was utilised for the data visualisation.  
 Several dashboards were developed, along with a story.
-These can be viewed online via [this link](https://public.tableau.com/app/profile/kim.coleman4297/viz/Module_18_citibike_analysis_kim_coleman/CitiBikeAnalysisStory)
+These can be viewed online via [this link](https://public.tableau.com/app/profile/kim.coleman4297/viz/Citi_Bike_Analysis_16847220882990/CitiBikeAnalysisStory)
 
 Below are images of the dasboards created:
 ![trip_duration](trip_duration.png)
