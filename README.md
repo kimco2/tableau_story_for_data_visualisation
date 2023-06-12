@@ -7,7 +7,8 @@ Tableau was used to build a story, including interactive dashboards to explore t
  [Citi Bike data](https://citibikenyc.com/system-data) for the period December 2022 to March 2023 was used for analysis, which included almost 7.5 million trips.
  
 ### **Tableau Story**
-A tableau story was put together, examining usage of Citi Bike trips.
+A tableau story was put together, examining usage of Citi Bike trips.  The full Tableau story can be viewed online via [this link](https://public.tableau.com/app/profile/kim.coleman4297/viz/Citi_Bike_Analysis_16847220882990/CitiBikeAnalysisStory).
+
 Key aspects found were:
 - Citi Bike members complete the greatest number of trips, with casual riders making up a smaller proportion of riders.
 ![membership](tableau_story_membership.png)
@@ -19,7 +20,7 @@ Key aspects found were:
 ![time_of_day](time_of_day.png)
 - The most popular stations for starting and ending trips are located in the central business district of Manhattan.  While stations located outside of Manhattan tend to be least popular.
 ![station_popularity](station_popularity.png)
-- The full Tableau story can be viewed online via [this link](https://public.tableau.com/app/profile/kim.coleman4297/viz/Citi_Bike_Analysis_16847220882990/CitiBikeAnalysisStory)
+
 
 <br>
 
